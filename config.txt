@@ -3,5 +3,3 @@ owner=441683368418082836
 prefix=$
 stayinchannel=true
 songinstatus=true
-updatealerts=true 
-eval=false
