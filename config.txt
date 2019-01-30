@@ -1,4 +1,4 @@
-token=NTIwNTk4MDE0MDk2NzAzNDk5.DzJIyQ.e-3dpoN4Yo5y9EE7gxhO7h0JPs0
+token=تحط التوكن علطول
 owner=441683368418082836 
 prefix=$
 stayinchannel=true
