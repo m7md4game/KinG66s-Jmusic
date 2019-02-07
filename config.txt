@@ -1,5 +1,5 @@
-token=تحط التوكن علطول
-owner=441683368418082836 
-prefix=$
+token=NTQxOTM3MjE2MzM5OTY4MDAw.Dz2YuA.lBcxjQZChwHeEGu7uDVpkcYgEBU
+owner=400732890322960411 
+prefix=1
 stayinchannel=true
 songinstatus=true
